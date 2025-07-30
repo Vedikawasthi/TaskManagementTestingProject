@@ -9,16 +9,13 @@ A comprehensive software testing project demonstrating mutation testing, white-b
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Technologies & Tools](#technologies--tools)
-- [Repository Structure](#repository-structure)
-- [Installation & Setup](#installation--setup)
 - [Running Tests](#running-tests)
 - [Mutation Testing](#mutation-testing)
 - [White-Box Testing](#white-box-testing)
 - [Black-Box Testing](#black-box-testing)
 - [Documentation](#documentation)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 A Java-based task management application with a focus on rigorous software testing:
